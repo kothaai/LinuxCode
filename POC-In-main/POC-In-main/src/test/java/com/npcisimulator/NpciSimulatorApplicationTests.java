@@ -5,6 +5,5 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 class NpciSimulatorApplicationTests {
 
-	@Test
 	
 }
